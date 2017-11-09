@@ -10,9 +10,9 @@ Visualization of biological networks are critically important to aid researchers
 [GML Plugin](https://pan.baidu.com/s/1qY5cALm) provide a simple way to make a
 website using [Markdown](https://daringfireball.net/projects/markdown/) and
 [git](https://git-scm.com).
+[GML Plugin](https://drive.google.com/drive/folders/1L0fGCYVvdv7-kicWlM6N6wTZB2N1kU_g?usp=sharing)
 
 
-[GML Google Plugin](https://drive.google.com/drive/folders/1L0fGCYVvdv7-kicWlM6N6wTZB2N1kU_g?usp=sharing)
 
 For me, the painful aspects of making a website are
 
