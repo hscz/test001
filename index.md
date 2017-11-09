@@ -12,6 +12,10 @@ website using [Markdown](https://daringfireball.net/projects/markdown/) and
 [git](https://git-scm.com).
 [dss Plugin](https://drive.google.com/drive/folders/1L0fGCYVvdv7-kicWlM6N6wTZB2N1kU_g?usp=sharing)
 
+[GML Plugin](https://drive.google.com/open?id=15nJWLW3hyQc95i8npV2TIwmNebzF9p3Q)----true
+
+[GBL](https://drive.google.com/open?id=1AUWerdSGgvTN8BMqI5oRbDnST3xRPtit)----true
+
 
 
 For me, the painful aspects of making a website are
